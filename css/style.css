@@ -1,8 +1,23 @@
 /*Such CSS. Very Style. Much Format. Wow.*/
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
 body {
     background-image: url("https://www.tesla.com/sites/all/themes/custom/tesla_theme/assets/img/mytesla/model_3_blue.png")
 }
 
 h1 {
-	
+	font-family: 'Open Sans';
+;
+}
+
+ul {
+	font-family: 'Open sans';
+	font-size: 22px;
+}
+
+p {
+	margin-left:50%;
+	margin-top:-10%;
+	font-family: 'Open sans';
+	font-size: 100px;
 }
