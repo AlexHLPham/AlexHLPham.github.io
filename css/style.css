@@ -16,8 +16,9 @@ ul {
 }
 
 p {
-	margin-left:50%;
-	margin-top:-10%;
+	position: absolute;
+	margin-top:-150px;
+	margin-left:700px;
 	font-family: 'Open sans';
-	font-size: 100px;
+	font-size: 75px;
 }
