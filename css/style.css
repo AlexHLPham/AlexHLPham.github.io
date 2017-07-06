@@ -1,6 +1,9 @@
 /*Such CSS. Very Style. Much Format. Wow.*/
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
-@import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
+@font-face {
+  font-family: 'TESLA';
+  src: url('TESLA.ttf');
+}
 body {
     background-image: url("https://www.tesla.com/sites/all/themes/custom/tesla_theme/assets/img/mytesla/model_3_blue.png")
 }
@@ -16,9 +19,14 @@ ul {
 }
 
 p {
-	position: absolute;
-	margin-top:-150px;
-	margin-left:700px;
+	margin-left:40%;
 	font-family: 'Open sans';
 	font-size: 75px;
+}
+
+div {
+	color:red;
+	font-family: 'TESLA';
+	font-size:75px;
+	margin-top:30%;
 }
