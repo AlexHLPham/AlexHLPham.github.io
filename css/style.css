@@ -5,7 +5,7 @@
   src: url('TESLA.ttf');
 }
 body {
-    background-image: url("https://www.tesla.com/sites/all/themes/custom/tesla_theme/assets/img/mytesla/model_3_blue.png")
+    background-image: url("https://pbs.twimg.com/media/DERHYrbW0AAtBFB.jpg:large" /*"https://www.tesla.com/sites/all/themes/custom/tesla_theme/assets/img/mytesla/model_3_blue.png"*/)
 }
 
 h1 {
