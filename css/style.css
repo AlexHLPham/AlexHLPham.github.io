@@ -5,7 +5,7 @@
   src: url('TESLA.ttf');
 }
 body {
-    background-image: url("images\waterwindow.jpg")
+    background: url("images\waterwindow.jpg") no-repeat center center fixed;
 }
 
 h1 {
